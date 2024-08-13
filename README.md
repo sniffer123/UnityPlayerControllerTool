@@ -18,3 +18,6 @@ Usage:
 4.在[PlayerControllerToolWindow]中连接手机  
 5.在[PlayerControllerToolWindow]中，打开[Hierarchy] 面板，单击 [Collect Hierarchy Data],等待一会后手机上的游戏的 hierarchy tree 就会显示在左边。你可以选中一个节点后在面板右边开关它  
 6.你可以扩展工具，请参考 [PlayerControllerToolWindow_1_GamePlay. Custom] 和 [Command]的实现  
+
+![image](https://github.com/sniffer123/UnityPlayerControllerTool/blob/main/screenshot.png)  
+
